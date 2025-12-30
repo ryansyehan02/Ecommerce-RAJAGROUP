@@ -1,0 +1,16 @@
+.truncate-teks{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+.custom-hover-secondary:hover{
+    background-color: #adb5bd;
+}
+.hover-item {
+	background-color: #FFF;
+}
+
+.hover-item:hover {
+	background-color: inherit;
+}
